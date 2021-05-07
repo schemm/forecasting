@@ -2,7 +2,7 @@ dependencies:
   - pandas
   - seaborn
   - matplotlib
-  - sktime
+  - pmdarima
   - cython
   - pip
   - pip:

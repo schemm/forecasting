@@ -1,5 +1,5 @@
-alembic @ file:///home/conda/feedstock_root/build_artifacts/alembic_1613901514078/work
-anyio @ file:///home/conda/feedstock_root/build_artifacts/anyio_1612745536224/work/dist
+alembic
+anyio
 argon2-cffi @ file:///home/conda/feedstock_root/build_artifacts/argon2-cffi_1602546578258/work
 async-generator==1.10
 attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1605083924122/work

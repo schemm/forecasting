@@ -4,6 +4,7 @@ dependencies:
   - matplotlib
   - pmdarima
   - cython
+  - prophet
   - pip
   - pip:
         - -e git+https://github.com/alan-turing-institute/sktime.git@main#egg=sktime
